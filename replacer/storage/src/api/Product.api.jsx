@@ -1,0 +1,3 @@
+const ProductTable = () => {};
+
+export { ProductTable };
