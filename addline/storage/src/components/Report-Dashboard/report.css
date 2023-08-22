@@ -1,0 +1,13 @@
+thead th {
+  cursor: pointer;
+}
+a.sorted-asc::before {
+  content: "▲";
+  position: relative;
+  top: -0.2rem;
+}
+a.sorted-desc::before {
+  content: "▼";
+  position: relative;
+  top: -0.2rem;
+}
